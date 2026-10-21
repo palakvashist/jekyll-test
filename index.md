@@ -1,5 +1,11 @@
 # Bombay and Its World
 
-Welcome to my spatial history project.
+A spatial history of Bombay's cotton-mill world and the places it was tied to.
 
-This is my landing page. My essay and map will go here.
+## The Map
+
+<iframe src="map/" width="100%" height="520" style="border:1px solid #ccc; border-radius:8px;"></iframe>
+
+## The Essay
+
+(Paste your essay here as normal paragraphs. Leave a blank line between paragraphs.)
