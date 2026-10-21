@@ -8,4 +8,4 @@ A spatial history of Bombay's cotton-mill world and the places it was tied to.
 
 ## The Essay
 
-(Paste your essay here as normal paragraphs. Leave a blank line between paragraphs.)
+(This is the city which was once famous for cotton textile)
